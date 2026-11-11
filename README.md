@@ -14,7 +14,7 @@ Senior Full Stack & AI Systems Engineer based in Brazil. I build web and mobile 
 - **[project-starter](https://github.com/gabrielbsandim/project-starter)** — Claude Code skill (`/new-project`) scaffolding production-grade full-stack monorepos with clean architecture, strict TypeScript, 95% test coverage, i18n, and PWA out of the box.
 
 ### Products & Mobile
-- **[OpenRing](https://github.com/gabrielbsandim/open-ring)** — Free, open-source companion app for budget smart rings (COLMI R09+). Keeps 100% of health data local on your phone and syncs seamlessly with Android Health Connect. Available on [Google Play](https://play.google.com/store/apps/details?id=gbs.openring.app).
+- **[OpenRing](https://github.com/gabrielbsandim/open-ring)** — Free, open-source companion app for budget smart rings (COLMI R09+). Keeps 100% of health data local on your phone and syncs seamlessly with Apple Health and Android Health Connect. Available on [Google Play](https://play.google.com/store/apps/details?id=gbs.openring.app).
 - **[Cashdeck](https://github.com/gabrielbsandim/cashdeck)** — Self-hosted household finance system for Brazil (PF & PJ). Features Open Finance bank sync (Pluggy), automated bill capture, an escalating payment ladder, and AI-assisted financial chat.
 - **[Lifedeck](https://github.com/gabrielbsandim/lifedeck)** — Multilingual, collaborative task platform featuring AI list generation, civil-day time-zone awareness, and a white-label OpenAPI REST surface.
 - **[Obra Nova](https://www.obranova.com.br)** — Construction management platform featuring an LLM-powered WhatsApp assistant that compiles daily site reports from field voice notes and photos, gated by rigorous evals ([Case Study](https://www.gbstec.dev.br/cases/obra-nova)).
@@ -27,4 +27,4 @@ Senior Full Stack & AI Systems Engineer based in Brazil. I build web and mobile 
 - **Languages & Frameworks:** TypeScript, Node.js, Next.js (App Router), React 19, Flutter (Dart), Python.
 - **Architecture & Quality:** Clean Architecture, Ports & Adapters, Monorepos (Turborepo/pnpm), Vitest/Jest (95%+ coverage standards).
 - **AI & Agentic Systems:** MCP (Model Context Protocol), Claude Code / Antigravity plugins & skills, LLM Evals, Vercel AI SDK.
-- **Data & Mobile:** PostgreSQL (Neon), Prisma ORM, Android Health Connect, SQLite, BLE protocols.
+- **Data & Mobile:** PostgreSQL (Neon), Prisma ORM, Apple Health (HealthKit), Android Health Connect, SQLite, BLE protocols.
